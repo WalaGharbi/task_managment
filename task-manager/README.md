@@ -50,11 +50,13 @@ npm run build
 --- 
 
 🙌 Contributing
+
 Pull requests are welcome.
 
 ---
 
 📬 Contact
+
 Made with ❤️ by Wala Gharbi
 GitHub: @WalaGharbi
 Website: https://www.walagharbi.com/
